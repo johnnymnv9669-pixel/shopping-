@@ -47,7 +47,7 @@
     font-size: 1rem;
   }
   .product-price {
-    color: #0070f3;
+    color: #304674;
     font-weight: 700;
     margin-bottom: 10px;
   }
@@ -114,7 +114,7 @@
         card.innerHTML = `
           <img src="${imageUrl}" alt="${name}" loading="lazy" />
           <div class="product-name">${name}</div>
-          <div class="product-price">฿${price}</div>
+          <div class="product-price">LAK${price}</div>
           <a href="${orderLink}" target="_blank" class="btn-order">สั่งซื้อ</a>
         `;
 
