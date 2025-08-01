@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="th">
 <head>
 <meta charset="UTF-8" />
@@ -52,7 +51,7 @@
     margin-bottom: 10px;
   }
   .btn-order {
-    background-color: #0070f3;
+    background-color: #304674;
     color: white;
     border: none;
     border-radius: 6px;
