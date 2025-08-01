@@ -105,7 +105,7 @@
   </div>
 
   <script>
-    const API_URL = "https://script.google.com/macros/s/YOUR_SCRIPT_ID_HERE/exec"; // 🔁 เปลี่ยนลิงก์ตรงนี้ด้วยของคุณเอง
+    const API_URL = "https://script.google.com/macros/s/AKfycbx_6wR2lwS-lGfm91QMEqYQIB9L3wmJtRTInDBj_jOuVek4_h1RRd1Ovpd7sCbrj-54/exec"; // 🔁 เปลี่ยนลิงก์ตรงนี้ด้วยของคุณเอง
 
     async function fetchProducts() {
       try {
