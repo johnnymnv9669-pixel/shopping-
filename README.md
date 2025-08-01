@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="th">
 <head>
 <meta charset="UTF-8" />
@@ -84,7 +83,7 @@
 
   <script>
     // ใส่ URL Web App ของคุณตรงนี้
-    const API_URL = "https://script.google.com/macros/s/AKfycbyLe7Y3iHX57tnH8vXnC7s9efzjb0jw1r6FbIObtpFW1qX-hMOa1WcXRgmE8vbx79ExsA/exec";
+    const API_URL = "https://script.google.com/macros/s/AKfycbyuHls7E56wQ7nzItCA-UOcOUKQChl1J7QLVmx42-81zrerlqNyfOa6iX9lbdlHnPtE6g/exec";
 
     async function fetchProducts() {
       try {
