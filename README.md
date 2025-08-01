@@ -76,7 +76,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>ร้านค้าของคุณ</h1>
+    <h1>ສະນັບສະໜູນໂດຍການຊື້ເຄື່ອງ</h1>
     <div id="products" class="products-grid">
       <!-- สินค้าจะมาแสดงที่นี่ -->
     </div>
@@ -115,7 +115,7 @@
           <img src="${imageUrl}" alt="${name}" loading="lazy" />
           <div class="product-name">${name}</div>
           <div class="product-price">LAK${price}</div>
-          <a href="${orderLink}" target="_blank" class="btn-order">สั่งซื้อ</a>
+          <a href="${orderLink}" target="_blank" class="btn-order">ສັ່ງຊື້</a>
         `;
 
         container.appendChild(card);
